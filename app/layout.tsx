@@ -21,7 +21,7 @@ export default function RootLayout({
       <body className={`${montserrat.className} antialiased`}>
         {children}
         <footer className='py-10 flex justify-center items-center'>
-          Esto esta realizadon con Next.js
+          Esto esta realizadon con Next.js by Javier Rodriguez
         </footer>
       </body>
     </html>
